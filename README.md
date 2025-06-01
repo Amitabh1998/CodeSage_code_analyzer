@@ -1,4 +1,4 @@
-# End-to-end-Source-Code-Analysis-Generative-AI
+# CodeSage: Code Analysis Tool using Generative AI
 
 # How to run?
 ### STEPS:
